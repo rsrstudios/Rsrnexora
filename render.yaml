@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: rsr-nexora
+    env: node
+    buildCommand: npm run build
+    startCommand: node dist/server.cjs

@@ -1,0 +1,6 @@
+{
+  "name": "RSR Nexora",
+  "description": "RSR Nexora — Production-ready AI assistant platform featuring high-performance token streaming, cryptographic authentication, isolated workspaces, enterprise security, and multi-tier prompt defense.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
